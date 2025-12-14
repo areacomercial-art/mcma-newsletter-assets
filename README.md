@@ -1,2 +1,2 @@
 # mcma-newsletter-assets
-Imágenes para hosteadas para emails html
+Imágenes para emails html
